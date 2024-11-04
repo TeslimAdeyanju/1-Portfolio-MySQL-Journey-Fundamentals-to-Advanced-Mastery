@@ -122,10 +122,12 @@ This portfolio serves as:
 For more in-depth notes and reflections on each topic, visit my [Notion Page](https://notion.so/your-notion-link). This page documents insights, learning milestones, and additional resources, providing a complete picture of my SQL journey.
 
 
-## 📩 Connect with me
+### 📬 **Get in Touch**
 
-## 📩 Connect with me:
+I’m always excited to collaborate on data-driven projects, particularly those involving SQL analytics. Feel free to connect with me!
 
 📧 [info@adeyanjuteslim.co.uk](mailto:info@adeyanjuteslim.co.uk)  
 🌍 [adeyanjuteslim.co.uk](https://adeyanjuteslim.co.uk)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adeyanjuteslimuthman)
+💼 [LinkedIn](https://www.linkedin.com/in/adeyanjuteslimuthman)
+
+---
