@@ -1,6 +1,6 @@
 # 🗓️ My SQL Journey: From Fundamentals to Advanced Data Mastery
 
-[![SQL Portfolio](https://img.shields.io/badge/Portfolio-Data%20Analysis-informational)](https://github.com/TeslimAdeyanju/sql-code-portfolio) 
+[![SQL Portfolio](https://img.shields.io/badge/Portfolio-Data%20Analysis-informational)](https://github.com/TeslimAdeyanju/sql-code-portfolio)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 [![Notion](https://img.shields.io/badge/Documentation-Notion-brightgreen)](https://notion.so/https://teslimuthmanadeyanju.notion.site/BASIC-SQL-3e0482d698324d7ca389a41efa3c17d8?pvs=4)
 
@@ -53,9 +53,9 @@ Moving forward, I learned how to filter data precisely, allowing me to refine my
 
 Joining tables felt like unlocking a new dimension in SQL. Here, I learned how to combine data from multiple sources, an essential skill for creating comprehensive data reports. Each type of join has taught me different approaches to merging datasets, allowing me to choose the best method based on the results I need.
 
-- **[INNER JOIN](https://github.com/TeslimAdeyanju/My-SQL-Journey-From-Fundamentals-to-Advanced-Data-Mastery/blob/main/3-Joining%20Tables/2-inner_join_sql_portfolio_notebook.ipynb)**: I started with INNER JOINs, which only bring together data when matches exist in both tables. This join type is perfect when I need results that meet strict criteria across two tables.
+- **[INNER JOIN](https://github.com/TeslimAdeyanju/My-SQL-Journey-From-Fundamentals-to-Advanced-Data-Mastery/blob/main/3-Joining%20Tables/2_inner_join_sql_portfolio_notebook.ipynb)**: I started with INNER JOINs, which only bring together data when matches exist in both tables. This join type is perfect when I need results that meet strict criteria across two tables.
 
-- **[LEFT JOIN](https://github.com/yourusername/sql-code-portfolio/blob/main/03_joins_left.sql)**: LEFT JOIN introduced me to the importance of keeping unmatched data from the left table. When there’s no corresponding data in the right table, it fills the gaps with `NULL`. This join is especially useful when I want all data from the primary table (left table) and any matched data from the secondary table.
+- **[LEFT JOIN](https://github.com/TeslimAdeyanju/My-SQL-Journey-From-Fundamentals-to-Advanced-Data-Mastery/blob/main/3-Joining%20Tables/3_left_join_sql_portfolio_notebook.ipynb)**: LEFT JOIN introduced me to the importance of keeping unmatched data from the left table. When there’s no corresponding data in the right table, it fills the gaps with `NULL`. This join is especially useful when I want all data from the primary table (left table) and any matched data from the secondary table.
 
 - **[RIGHT JOIN](https://github.com/yourusername/sql-code-portfolio/blob/main/03_joins_right.sql)**: Learning RIGHT JOIN was the reverse experience of the LEFT JOIN. Here, I keep all data from the right table and match it with the left table where possible. If there’s no match in the left table, SQL fills the missing entries with `NULL`. This approach is valuable when my primary interest is in the complete dataset of the right table while including any relevant data from the left table.
 
@@ -114,13 +114,13 @@ As I advanced, I learned how to use constraints to enforce data integrity. Const
 ## 🎯 Purpose and Applications
 
 This portfolio serves as:
+
 - **Educational Material**: A guide for learning essential SQL techniques, with easy-to-follow examples.
 - **Showcase of Expertise**: Evidence of my SQL proficiency, demonstrating real-world skills in data analysis, reporting, and database management.
 
 ## 🌐 Further Documentation and Learning Journey
 
 For more in-depth notes and reflections on each topic, visit my [Notion Page](https://notion.so/your-notion-link). This page documents insights, learning milestones, and additional resources, providing a complete picture of my SQL journey.
-
 
 ### 📬 **Get in Touch**
 
