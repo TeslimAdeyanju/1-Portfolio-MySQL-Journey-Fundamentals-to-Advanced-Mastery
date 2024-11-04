@@ -1,18 +1,33 @@
-# 📘 My SQL Journey: From Fundamentals to Advanced Data Mastery
+# 🗓️ My SQL Journey: From Fundamentals to Advanced Data Mastery
 
-[![SQL Portfolio](https://img.shields.io/badge/Portfolio-Data%20Analysis-informational)](https://github.com/yourusername/sql-code-portfolio) 
+[![SQL Portfolio](https://img.shields.io/badge/Portfolio-Data%20Analysis-informational)](https://github.com/TeslimAdeyanju/sql-code-portfolio) 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
-[![Notion](https://img.shields.io/badge/Documentation-Notion-brightgreen)](https://notion.so/your-notion-link)
+[![Notion](https://img.shields.io/badge/Documentation-Notion-brightgreen)](https://notion.so/https://teslimuthmanadeyanju.notion.site/BASIC-SQL-3e0482d698324d7ca389a41efa3c17d8?pvs=4)
 
-Welcome to my SQL Journey! This repository is a living record of my exploration into SQL and MySQL, highlighting essential skills like column and table aliases, joins, aggregations, and conditional filtering. Each section represents a milestone in my learning path, crafted to deepen my understanding of SQL’s power and versatility in real-world data analysis.
+Welcome to my SQL Journey! This repository is a living record of my exploration into SQL and MySQL, showcasing essential skills like column and table aliases, joins, aggregations, and conditional filtering. Each section represents a milestone in my learning path, crafted to deepen my understanding of SQL’s power and versatility in real-world data analysis.
 
-But here’s the fun part: I've also added a dash of Python magic to bring my SQL queries to life! Using `mysql.connector`, I connected directly to MySQL from Python, and with the help of `pandas`, I transformed raw query results into clean, easy-to-read data frames. This combination lets me explore data faster and visualize results right within my Python scripts—turning each query into an interactive experience.
+But here’s the exciting part: I’ve integrated Python to bring these SQL queries to life! Using `mysql.connector`, I connect directly to MySQL from Python, and with the help of `pandas`, I transform raw query results into clean, easy-to-read data frames. This combination lets me explore data interactively and visualize results right within my Python scripts—turning each query into a more insightful experience.
 
 ## 📂 Portfolio Overview
 
-This portfolio is divided into sections that document the steps I’ve taken to develop SQL proficiency. From foundational techniques to advanced capabilities, each area represents a building block in my journey. Whether it’s querying data, joining tables, or even building out complex subqueries, I’ve demonstrated not only my SQL skills but also my Python prowess, giving you an end-to-end view of how I bring data to life with both languages.
+This portfolio is organized into sections that document my SQL proficiency journey:
 
-Join me as I uncover insights from SQL through interactive Python displays, each dataset telling its own story in neat, pandas-powered frames. Let’s dive into the journey!
+- **Querying and Filtering**: Core SQL skills for conditional data extraction.
+- **Table Joins and Relationships**: Leveraging relational database principles.
+- **Aggregations and Summaries**: Summarizing data for deeper insights.
+- **Subqueries and Nested Statements**: Tackling complex data needs efficiently.
+
+Each section serves as a building block, where I’ve combined SQL with Python to transform data into insights.
+
+## Dive Deeper on My Notion Page 📘
+
+For a detailed look, visit my [Notion Page](https://teslimuthmanadeyanju.notion.site/BASIC-SQL-3e0482d698324d7ca389a41efa3c17d8?pvs=4), where I document each skill, reflect on learning milestones, and provide additional resources. This page is your one-stop resource for:
+
+- **In-depth explanations** of SQL concepts and techniques
+- **Personal reflections** and learning milestones
+- **Additional resources** to deepen your SQL knowledge
+
+This repository and my Notion page together offer a comprehensive view of my SQL journey, connecting learning and real-world application. Let’s uncover insights from SQL, one query at a time!
 
 ---
 
@@ -52,7 +67,7 @@ Each of these join types gives me control over how I handle matched and unmatche
 
 ---
 
-### 4. 📊 Aggregations and Grouping
+### 4. 📂 Aggregations and Grouping
 
 Aggregations were my introduction to data summarization, where I could extract valuable insights from groups within my data. Grouping allowed me to observe trends and analyze data at a higher level.
 
@@ -106,8 +121,11 @@ This portfolio serves as:
 
 For more in-depth notes and reflections on each topic, visit my [Notion Page](https://notion.so/your-notion-link). This page documents insights, learning milestones, and additional resources, providing a complete picture of my SQL journey.
 
-## 🚀 How to Use This Portfolio
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/sql-code-portfolio.git
+## 📩 Connect with me
+
+## 📩 Connect with me:
+
+📧 [info@adeyanjuteslim.co.uk](mailto:info@adeyanjuteslim.co.uk)  
+🌍 [adeyanjuteslim.co.uk](https://adeyanjuteslim.co.uk)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adeyanjuteslimuthman)
