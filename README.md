@@ -37,7 +37,7 @@ Moving forward, I learned how to filter data precisely, allowing me to refine my
 
 Joining tables felt like unlocking a new dimension in SQL. Here, I learned how to combine data from multiple sources, an essential skill for creating comprehensive data reports. Each type of join has taught me different approaches to merging datasets, allowing me to choose the best method based on the results I need.
 
-- **[INNER JOIN](https://github.com/yourusername/sql-code-portfolio/blob/main/03_joins_inner.sql)**: I started with INNER JOINs, which only bring together data when matches exist in both tables. This join type is perfect when I need results that meet strict criteria across two tables.
+- **[INNER JOIN](https://github.com/TeslimAdeyanju/My-SQL-Journey-From-Fundamentals-to-Advanced-Data-Mastery/blob/main/3-Joining%20Tables/2-inner_join_sql_portfolio_notebook.ipynb)**: I started with INNER JOINs, which only bring together data when matches exist in both tables. This join type is perfect when I need results that meet strict criteria across two tables.
 
 - **[LEFT JOIN](https://github.com/yourusername/sql-code-portfolio/blob/main/03_joins_left.sql)**: LEFT JOIN introduced me to the importance of keeping unmatched data from the left table. When there’s no corresponding data in the right table, it fills the gaps with `NULL`. This join is especially useful when I want all data from the primary table (left table) and any matched data from the secondary table.
 
