@@ -90,8 +90,8 @@ Subqueries opened up new ways to approach SQL challenges, letting me nest querie
 Learning set operations like `UNION`, `INTERSECT`, and `EXCEPT` allowed me to combine or compare result sets. These operations expanded my ability to compare datasets and unify results across different queries.
 
 - **[UNION](https://github.com/TeslimAdeyanju/my-SQL-Journey-From-Fundamentals-to-Advanced-Data-Mastery/blob/main/6-Set%20Operations/6.1_union_sql_portfolio_notebook%20copy%202.ipynb)**: `UNION` became a valuable tool for merging datasets without duplicating entries.
-- **[INTESECTION](https://github.com/TeslimAdeyanju/my-SQL-Journey-From-Fundamentals-to-Advanced-Data-Mastery/blob/main/6-Set%20Operations/6.2_intersect_sql_portfolio_notebook%20copy.ipynb)
-- **[EXCEPT](https://github.com/TeslimAdeyanju/my-SQL-Journey-From-Fundamentals-to-Advanced-Data-Mastery/blob/main/6-Set%20Operations/6.3_except_sql_portfolio_notebook.ipynb)
+- **[INTERSECTION](https://github.com/TeslimAdeyanju/my-SQL-Journey-From-Fundamentals-to-Advanced-Data-Mastery/blob/main/6-Set%20Operations/6.2_intersect_sql_portfolio_notebook%20copy.ipynb)** `INTERSECTION` useful for combinining common columns in two or more tables 
+- **[EXCEPT](https://github.com/TeslimAdeyanju/my-SQL-Journey-From-Fundamentals-to-Advanced-Data-Mastery/blob/main/6-Set%20Operations/6.3_except_sql_portfolio_notebook.ipynb)** `EXCEPT` commonly use to exclude a columns in a tables. 
 
 ---
 
