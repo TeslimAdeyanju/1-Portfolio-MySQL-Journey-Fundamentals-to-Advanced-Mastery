@@ -35,8 +35,8 @@ This repository and my Notion page together offer a comprehensive view of my SQL
 
 This is where my journey began, learning the fundamental SQL operations needed to manage and query data. Understanding the basics of SQL was crucial in building a solid foundation for more complex tasks.
 
-- **[Querying Data](https://github.com/yourusername/sql-code-portfolio/blob/main/01_mysql_basics_querying.sql)**: My first SQL statements! Here, I learned how to retrieve data from tables using simple `SELECT` queries.
-- **[Sorting Data](https://github.com/yourusername/sql-code-portfolio/blob/main/01_mysql_basics_sorting.sql)**: I explored the power of organizing results with `ORDER BY`, a vital tool for any analyst.
+- **[Querying Data](https://github.com/TeslimAdeyanju/my-SQL-Journey-From-Fundamentals-to-Advanced-Data-Mastery/blob/main/1-MySQL%20Basics/1.select_sql_portfolio_notebook.ipynb)**: My first SQL statements! Focusing on how to retrieve data from tables using simple `SELECT` queries.
+- **[Sorting Data](https://github.com/TeslimAdeyanju/my-SQL-Journey-From-Fundamentals-to-Advanced-Data-Mastery/blob/main/1-MySQL%20Basics/2.sorting_sql_portfolio_notebook.ipynb)**: I explored the power of organizing results with `ORDER BY`, a vital tool for any analyst.
 
 ---
 
