@@ -44,7 +44,7 @@ This is where my journey began, learning the fundamental SQL operations needed t
 
 Moving forward, I learned how to filter data precisely, allowing me to refine my queries for specific insights. These techniques taught me how to extract just the data I needed from large datasets.
 
-- **[WHERE and DISTINCT](https://github.com/yourusername/sql-code-portfolio/blob/main/02_filtering_data_where_distinct.sql)**: Filtering rows was a game-changer! I learned to apply conditions to hone in on relevant data and eliminate duplicates.
+- **[WHERE and DISTINCT](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery/blob/main/2-Filtering%20Data/2.1.Filtering_data_sql_portfolio_notebook.ipynb)**: Filtering rows was a game-changer! I learned to apply conditions to hone in on relevant data and eliminate duplicates.
 - **[Pattern Matching](https://github.com/yourusername/sql-code-portfolio/blob/main/02_filtering_data_like.sql)**: Discovering `LIKE` opened up new possibilities in pattern matching, making queries adaptable to flexible conditions.
 
 ---
@@ -90,8 +90,8 @@ Subqueries opened up new ways to approach SQL challenges, letting me nest querie
 Learning set operations like `UNION`, `INTERSECT`, and `EXCEPT` allowed me to combine or compare result sets. These operations expanded my ability to compare datasets and unify results across different queries.
 
 - **[UNION](https://github.com/TeslimAdeyanju/my-SQL-Journey-From-Fundamentals-to-Advanced-Data-Mastery/blob/main/6-Set%20Operations/6.1_union_sql_portfolio_notebook%20copy%202.ipynb)**: `UNION` became a valuable tool for merging datasets without duplicating entries.
-- **[INTERSECTION](https://github.com/TeslimAdeyanju/my-SQL-Journey-From-Fundamentals-to-Advanced-Data-Mastery/blob/main/6-Set%20Operations/6.2_intersect_sql_portfolio_notebook%20copy.ipynb)** `INTERSECTION` useful for combinining common columns in two or more tables 
-- **[EXCEPT](https://github.com/TeslimAdeyanju/my-SQL-Journey-From-Fundamentals-to-Advanced-Data-Mastery/blob/main/6-Set%20Operations/6.3_except_sql_portfolio_notebook.ipynb)** `EXCEPT` commonly use to exclude a columns in a tables. 
+- **[INTERSECTION](https://github.com/TeslimAdeyanju/my-SQL-Journey-From-Fundamentals-to-Advanced-Data-Mastery/blob/main/6-Set%20Operations/6.2_intersect_sql_portfolio_notebook%20copy.ipynb)** `INTERSECTION` useful for combinining common columns in two or more tables
+- **[EXCEPT](https://github.com/TeslimAdeyanju/my-SQL-Journey-From-Fundamentals-to-Advanced-Data-Mastery/blob/main/6-Set%20Operations/6.3_except_sql_portfolio_notebook.ipynb)** `EXCEPT` commonly use to exclude a columns in a tables.
 
 ---
 
