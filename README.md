@@ -1,4 +1,4 @@
-# 🗓️ My SQL Journey: From Fundamentals to Advanced Data Mastery
+# 🗓️ My SQL Journey: From Fundamentals to Advanced Data Mastery!
 
 [![SQL Portfolio](https://img.shields.io/badge/Portfolio-Data%20Analysis-informational)](https://github.com/TeslimAdeyanju/sql-code-portfolio)
 
