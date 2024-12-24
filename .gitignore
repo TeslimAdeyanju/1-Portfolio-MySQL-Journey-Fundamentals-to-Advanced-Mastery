@@ -1,0 +1,11 @@
+# Ignore environment variables file
+.env
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore notes file (optional; include if not part of the project)
+notes.txt
+
+# Ignore Excel data files
+data.xlsx
