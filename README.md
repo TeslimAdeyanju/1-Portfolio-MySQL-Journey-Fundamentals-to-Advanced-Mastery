@@ -4,7 +4,7 @@
 
 [![Notion](https://img.shields.io/badge/Documentation-Notion-brightgreen)](https://notion.so/https://teslimuthmanadeyanju.notion.site/BASIC-SQL-3e0482d698324d7ca389a41efa3c17d8?pvs=4)
 
-Welcome to my SQL Journey! This repository is a living record of my exploration into SQL and MySQL, showcasing essential skills like column and table aliases, joins, aggregations, and conditional filtering. Each section represents a milestone in my learning path, crafted to deepen my understanding of SQL’s power and versatility in real-world data analysis.
+Welcome to my SQL Journey! This repository is a living record of my exploration into SQL and MySQL, showcasing essential skills like column and table aliases, joins, aggregations, and conditional filtering. Each section represents a milestone in my learning path, crafted to deepen my understanding of SQL’s power and versatility in real-world data analysis..
 
 But here’s the exciting part: I’ve integrated Python to bring these SQL queries to life! Using `mysql.connector`, I connect directly to MySQL from Python, and with the help of `pandas`, I transform raw query results into clean, easy-to-read data frames. This combination lets me explore data interactively and visualize results right within my Python scripts—turning each query into a more insightful experience.
 
