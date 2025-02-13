@@ -35,8 +35,8 @@ This repository and my Notion page together offer a comprehensive view of my SQL
 
 This is where my journey began, learning the fundamental SQL operations needed to manage and query data. Understanding the basics of SQL was crucial in building a solid foundation for more complex tasks.
 
-- **[Querying Data](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery/blob/main/1_mysql_basics/1.1_select_sql_notebook.ipynb)**: My first SQL statements! Focusing on how to retrieve data from tables using simple `SELECT` queries.
-- **[Sorting Data](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery/blob/main/1_mysql_basics/1.2_sorting_sql_notebook.ipynb)**: I explored the power of organizing results with `ORDER BY`, a vital tool for any analyst.
+- **[Querying Data](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery/blob/main/1-mysql-basics/1.1-select-sql-notebook.ipynb)**: My first SQL statements! Focusing on how to retrieve data from tables using simple `SELECT` queries.
+- **[Sorting Data](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery/blob/main/1-mysql-basics/1.2-sorting-sql-notebook.ipynb)**: I explored the power of organizing results with `ORDER BY`, a vital tool for any analyst.
 
 ---
 
@@ -44,7 +44,7 @@ This is where my journey began, learning the fundamental SQL operations needed t
 
 Moving forward, I learned how to filter data precisely, allowing me to refine my queries for specific insights. These techniques taught me how to extract just the data I needed from large datasets.
 
-- **[WHERE and DISTINCT](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery/blob/main/2_filtering_data/2.1_filtering_data_sql_notebook.ipynb)**: Filtering rows was a game-changer! I learned to apply conditions to hone in on relevant data and eliminate duplicates.
+- **[WHERE and DISTINCT](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery/blob/main/2-filtering-data/2.1-filtering-data-sql-notebook.ipynb)**: Filtering rows was a game-changer! I learned to apply conditions to hone in on relevant data and eliminate duplicates.
 
 
 ---
@@ -53,15 +53,13 @@ Moving forward, I learned how to filter data precisely, allowing me to refine my
 
 Joining tables felt like unlocking a new dimension in SQL. Here, I learned how to combine data from multiple sources, an essential skill for creating comprehensive data reports. Each type of join has taught me different approaches to merging datasets, allowing me to choose the best method based on the results I need.
 
-- **[INNER JOIN](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery/blob/main/3_joining_tables/3.2_inner_join_sql_notebook.ipynb)**: I started with INNER JOINs, which only bring together data when matches exist in both tables. This join type is perfect when I need results that meet strict criteria across two tables.
+- **[INNER JOIN](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery/blob/main/3-joining-tables/3.2-inner-join-sql-notebook.ipynb)**: I started with INNER JOINs, which only bring together data when matches exist in both tables. This join type is perfect when I need results that meet strict criteria across two tables.
 
-- **[LEFT JOIN](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery/blob/main/3_joining_tables/3.3_left_join_sql_notebook.ipynb)**: LEFT JOIN introduced me to the importance of keeping unmatched data from the left table. When there’s no corresponding data in the right table, it fills the gaps with `NULL`. This join is especially useful when I want all data from the primary table (left table) and any matched data from the secondary table.
+- **[LEFT JOIN](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery/blob/main/3-joining-tables/3.3-left-join-sql-notebook.ipynb)**: LEFT JOIN introduced me to the importance of keeping unmatched data from the left table. When there’s no corresponding data in the right table, it fills the gaps with `NULL`. This join is especially useful when I want all data from the primary table (left table) and any matched data from the secondary table.
 
-- **[RIGHT JOIN](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery/blob/main/3_joining_tables/3.4_right_join_sql_notebook.ipynb)**: Learning RIGHT JOIN was the reverse experience of the LEFT JOIN. Here, I keep all data from the right table and match it with the left table where possible. If there’s no match in the left table, SQL fills the missing entries with `NULL`. This approach is valuable when my primary interest is in the complete dataset of the right table while including any relevant data from the left table.
+- **[RIGHT JOIN](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery/blob/main/3-joining-tables/3.4-right-join-sql-notebook.ipynb)**: Learning RIGHT JOIN was the reverse experience of the LEFT JOIN. Here, I keep all data from the right table and match it with the left table where possible. If there’s no match in the left table, SQL fills the missing entries with `NULL`. This approach is valuable when my primary interest is in the complete dataset of the right table while including any relevant data from the left table.
 
-- **[SELF JOIN](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery/blob/main/3_joining_tables/3.5_self_join_sql_notebook.ipynb)**: SELF JOIN opened up a unique perspective by allowing me to join a table to itself. This is useful when comparing rows within the same table, such as finding pairs of employees with the same manager or comparing dates within a single dataset. By using table aliases, I could treat the same table as two distinct entities in the query, expanding the scope of analysis I could perform within a single dataset.
-
-- **[CROSS JOIN](https://github.com/yourusername/sql-code-portfolio/blob/main/03_joins_cross.sql)**: CROSS JOIN introduced me to the concept of a Cartesian product, where every row from the first table is paired with every row from the second table. This type of join creates all possible combinations, which is helpful in scenarios like generating test datasets or creating combinations of different attributes. While it’s powerful, I learned to use it carefully to avoid unintentionally large result sets.
+- **[SELF JOIN](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery/blob/main/3-joining-tables/3.5-self-join-sql-notebook.ipynb)**: SELF JOIN opened up a unique perspective by allowing me to join a table to itself. This is useful when comparing rows within the same table, such as finding pairs of employees with the same manager or comparing dates within a single dataset. By using table aliases, I could treat the same table as two distinct entities in the query, expanding the scope of analysis I could perform within a single dataset.
 
 Each of these join types gives me control over how I handle matched and unmatched data across tables, allowing me to build robust, comprehensive datasets tailored to specific analytical needs. From precise filtering with INNER JOIN to comparing entries within a single table using SELF JOIN, I’ve learned how to approach complex data relationships with flexibility and depth.
 
