@@ -44,7 +44,7 @@ This is where my journey began, learning the fundamental SQL operations needed t
 
 Moving forward, I learned how to filter data precisely, allowing me to refine my queries for specific insights. These techniques taught me how to extract just the data I needed from large datasets.
 
-- **[WHERE and DISTINCT](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery/blob/main/2-Filtering%20Data/2.1.Filtering_data_sql_portfolio_notebook.ipynb)**: Filtering rows was a game-changer! I learned to apply conditions to hone in on relevant data and eliminate duplicates.
+- **[WHERE and DISTINCT](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery/blob/main/2_filtering_data/2.1_filtering_data_sql_notebook.ipynb)**: Filtering rows was a game-changer! I learned to apply conditions to hone in on relevant data and eliminate duplicates.
 - **[Pattern Matching](https://github.com/yourusername/sql-code-portfolio/blob/main/02_filtering_data_like.sql)**: Discovering `LIKE` opened up new possibilities in pattern matching, making queries adaptable to flexible conditions.
 
 ---
