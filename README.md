@@ -70,7 +70,7 @@ Each of these join types gives me control over how I handle matched and unmatche
 Aggregations were my introduction to data summarization, where I could extract valuable insights from groups within my data. Grouping allowed me to observe trends and analyze data at a higher level.
 
 - **[GROUP BY](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery/blob/main/4-grouping-data/4.1-group-by-sql-notebook.ipynb)**: With `GROUP BY`, I began to organize my data into meaningful categories.
-- **[HAVING](https://github.com/yourusername/sql-code-portfolio/blob/main/04_aggregations_having.sql)**: Filtering groups with `HAVING` brought in-depth analysis, allowing me to set conditions on aggregated results.
+- **[HAVING](https://github.com/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery/blob/main/4-grouping-data/4.2-group-by-sql-notebook.ipynb)**: Filtering groups with `HAVING` brought in-depth analysis, allowing me to set conditions on aggregated results.
 
 ---
 
