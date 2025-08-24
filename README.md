@@ -130,4 +130,5 @@ I’m always excited to collaborate on data-driven projects, particularly those 
 🌍 [adeyanjuteslim.co.uk](https://adeyanjuteslim.co.uk)  
 💼 [LinkedIn](https://www.linkedin.com/in/adeyanjuteslimuthman)
 
+[![wakatime](https://wakatime.com/badge/github/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery.svg)](https://wakatime.com/badge/github/TeslimAdeyanju/1-Portfolio-MySQL-Journey-Fundamentals-to-Advanced-Mastery)
 ---
